@@ -1,2 +1,2 @@
 # Zorawar-Singh
-Author Zorawar Singh
+Author <br> Zorawar Singh
